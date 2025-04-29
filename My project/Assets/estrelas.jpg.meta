@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: cb47e9a917090fd419932a8b04bee4f3
+guid: 318b2ec5d13cc4b45bc35a31b239524c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 243165591736554599
-    second: pngtree-fire-explosion-blast-flame-png-transparent-png-image_946470-removebg-preview_0
-  - first:
-      213: 6917380655375130939
-    second: pngtree-fire-explosion-blast-flame-png-transparent-png-image_946470-removebg-preview_1
+      213: -3842563931857561587
+    second: estrelas_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -103,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: pngtree-fire-explosion-blast-flame-png-transparent-png-image_946470-removebg-preview_0
+      name: estrelas_0
       rect:
         serializedVersion: 2
-        x: 1
+        x: 0
         y: 0
-        width: 356
-        height: 341
+        width: 400
+        height: 300
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -118,30 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7641e0d31d5ef5300800000000000000
-      internalID: 243165591736554599
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pngtree-fire-explosion-blast-flame-png-transparent-png-image_946470-removebg-preview_1
-      rect:
-        serializedVersion: 2
-        x: 351
-        y: 206
-        width: 7
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b312bc36e097fff50800000000000000
-      internalID: 6917380655375130939
+      spriteID: d08d6e676787caac0800000000000000
+      internalID: -3842563931857561587
       vertices: []
       indices: 
       edges: []
@@ -159,9 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      pngtree-fire-explosion-blast-flame-png-transparent-png-image_946470-removebg-preview_0: 243165591736554599
-      pngtree-fire-explosion-blast-flame-png-transparent-png-image_946470-removebg-preview_1: 6917380655375130939
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
