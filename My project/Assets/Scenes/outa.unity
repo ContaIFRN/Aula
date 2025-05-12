@@ -517,6 +517,7 @@ GameObject:
   - component: {fileID: 1162458718}
   - component: {fileID: 1162458717}
   - component: {fileID: 1162458716}
+  - component: {fileID: 1162458720}
   m_Layer: 0
   m_Name: Luigi
   m_TagString: Untagged
@@ -658,6 +659,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1162458720
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1162458715}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15f9619d5c3790045bd1211c42523bb1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade: 30
 --- !u!1 &1816235030
 GameObject:
   m_ObjectHideFlags: 0
