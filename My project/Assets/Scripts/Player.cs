@@ -5,7 +5,7 @@ public class Player : MonoBehaviour
 {
     private int numero;
 
-    public float velocidade = 30;
+    public float velocidade = 20;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
