@@ -24,3 +24,27 @@ public class testes : MonoBehaviour
         return A + B;
     }
 }
+
+
+public class testes1 : MonoBehaviour
+{
+    private int a;
+    private int b;
+    private int c;
+
+
+    void Start()
+    {
+        a = 11;
+        b = 12;
+        c = Soma1(a, b);
+        Debug.Log(c);
+    }
+
+    int Soma1(int a, int b)
+    {
+        return a + b;
+    }
+}
+    
+    
